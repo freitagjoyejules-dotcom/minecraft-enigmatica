@@ -1,0 +1,114 @@
+ 
+ 
+ 
+----------------------------------------------------------------- 
+INFO: Starting batch at 8/02:134654 
+----------------------------------------------------------------- 
+ 
+DEBUG: Current Dir is C:\Users\jular\Desktop\Enigmatica2LightServer-1.5.1-log4j-fix -- trying to change to C:\Users\jular\Desktop\Enigmatica2LightServer-1.5.1-log4j-fix\ 
+INFO: Checking that settings.cfg exists 
+DEBUG: settings.cfg Found. Logging full contents below: 
+;SETTINGS FOR SERVERSTART SCRIPTS
+;See "serverstart.log" in the LOGS subfolder 
+;For more details/help see: https://github.com/AllTheMods/Server-Scripts
+
+MAX_RAM=8G; 
+JAVA_ARGS=-XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dfml.readTimeout=180 -Dfml.queryResult=confirm; 
+CRASH_COUNT=5; 
+CRASH_TIMER=600; 
+RUN_FROM_BAD_FOLDER=0; 
+IGNORE_OFFLINE=0; 
+IGNORE_JAVA_CHECK=0; 
+USE_SPONGE=0;
+HIGH_CPU_PRIORITY=0;
+
+MODPACK_NAME=Enigmatica 2: Expert;
+MCVER=1.12.2;
+FORGEVER=14.23.5.2860;
+FORGEURL=https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar; 
+INFO: Loading variables from settings.cfg  
+DEBUG: Starting variable definitions: 
+DEBUG: MC_SERVER_MAX_RAM=8G 
+DEBUG: MC_SERVER_FORGE_JAR= 
+DEBUG: MC_SERVER_SPONGE_BOOT= 
+DEBUG: MC_SERVER_JVM_ARGS=-Xmx8G -Xms4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dfml.readTimeout=180 -Dfml.queryResult=confirm 
+DEBUG: MC_SERVER_MAX_CRASH=5 
+DEBUG: MC_SERVER_CRASH_TIMER=600 
+DEBUG: MC_SERVER_IGNORE_OFFLINE=0 
+DEBUG: MC_SERVER_RUN_FROM_BAD_FOLDER=0 
+DEBUG: MC_SERVER_MCVER=1.12.2 
+DEBUG: MC_SERVER_FORGEVER=14.23.5.2860 
+DEBUG: MC_SERVER_FORGESHORT=2860 
+DEBUG: MC_SERVER_FORGEURL=https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar 
+DEBUG: MC_SERVER_SPONGE=0 
+DEBUG: MC_SERVER_HIGH_PRIORITY=0 
+DEBUG: MC_SERVER_PACKNAME=Enigmatica 2: Expert 
+DEBUG: MC_SERVER_SPONGEURL= 
+DEBUG: MC_SERVER_SPONGEBOOTSTRAPURL= 
+DEBUG: MC_SERVER_ERROR_REASON=Unspecified 
+DEBUG: MC_SERVER_TMP_FLAG= 
+DEBUG: MC_SERVER_CRASH_COUNTER=1 
+DEBUG: MC_SERVER_CRASH_YYYYMMDD=8/02 
+DEBUG: MC_SERVER_CRASH_HHMMSS=134654 
+DEBUG: Current directory file listing: 
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 8239-29B7
+
+ R‚pertoire de C:\Users\jular\Desktop\Enigmatica2LightServer-1.5.1-log4j-fix
+
+20/08/2026  17:06    <DIR>          .
+21/08/2026  22:24    <DIR>          ..
+20/08/2026  16:54    <DIR>          .mixin.out
+20/08/2026  16:54    <DIR>          astralsorcery
+20/08/2026  23:10    <DIR>          backups
+21/08/2026  22:32                 2 banned-ips.json
+21/08/2026  22:32                 2 banned-players.json
+20/08/2026  17:02    <DIR>          config
+21/08/2026  22:32           102ÿ791 crafttweaker.log
+20/08/2026  17:02    <DIR>          crash-reports
+05/08/2026  15:57               186 eula.txt
+05/08/2026  15:56         4ÿ466ÿ148 forge-1.12.2-14.23.5.2860.jar
+20/08/2026  17:02    <DIR>          journeymap
+20/08/2026  17:02    <DIR>          libraries
+01/05/2018  22:41             3ÿ237 LICENSE.md
+20/08/2026  17:02    <DIR>          local
+23/08/2026  13:46    <DIR>          logs
+05/08/2026  15:57        30ÿ222ÿ121 minecraft_server.1.12.2.jar
+20/08/2026  17:05    <DIR>          mods
+21/08/2026  22:33               273 ops.json
+05/08/2026  15:57                15 options.txt
+01/05/2018  22:41            12ÿ200 README.md
+20/08/2026  17:06    <DIR>          schematics
+20/08/2026  17:06    <DIR>          scripts
+21/08/2026  22:32               821 server.properties
+23/06/2021  22:12            44ÿ948 ServerStart.bat
+07/03/2021  00:46            10ÿ188 ServerStartLinux.sh
+04/06/2019  18:32             1ÿ866 SERVER_GUIDE.txt
+05/08/2026  19:24             1ÿ114 settings.cfg
+20/08/2026  17:06    <DIR>          TombManyGraves
+21/08/2026  23:25               213 usercache.json
+05/08/2026  16:06               110 usernamecache.json
+05/08/2026  15:59                 2 whitelist.json
+22/08/2026  00:29    <DIR>          world
+              18 fichier(s)       34ÿ866ÿ237 octets
+              16 R‚p(s)  828ÿ780ÿ912ÿ640 octets libres
+DEBUG: JAVA version output (java -d64 -version): 
+java version "1.8.0_503"
+Java(TM) SE Runtime Environment (build 1.8.0_503-b01)
+INFO: Found 64-bit Java 1.8 
+...64-bit Java 1.8 found! 
+INFO: Checking if current folder is valid... 
+INFO: Checking for basic internet connectivity... 
+R‚ponse de 8.8.8.8ÿ: octets=32 temps=14 ms TTL=117
+R‚ponse de 8.8.8.8ÿ: octets=32 temps=17 ms TTL=117
+INFO: Ping of "8.8.8.8" Successfull 
+INFO: Checking for forge/minecraft binaries... 
+Fichier introuvable
+DEBUG: MC_SERVER_SPONGE_BOOT= 
+DEBUG: MC_SERVER_FORGE_JAR=forge-1.12.2-14.23.5.2860.jar 
+Impossible de trouver C:\Users\jular\Desktop\Enigmatica2LightServer-1.5.1-log4j-fix\*forge*universal*.jar
+Impossible de trouver C:\Users\jular\Desktop\Enigmatica2LightServer-1.5.1-log4j-fix\*sponge*bootstrap*.jar
+INFO: Starting Server... 
+DEBUG: Disabling any spongeforge jar in \mods\ because USE_SPONGE is disabled in settings.cfg 
+Fichier introuvable
+DEBUG: Attempting to execute [ java -Xmx8G -Xms4G -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Dfml.readTimeout=180 -Dfml.queryResult=confirm -jar "C:\Users\jular\Desktop\Enigmatica2LightServer-1.5.1-log4j-fix\forge-1.12.2-14.23.5.2860.jar" nogui ] 

@@ -1,0 +1,1167 @@
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] Ignoring script {[0:crafttweaker]: IntegratedDynamics.zs} due to the following #modloaded preprocessor settings: [{integrateddynamics}]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ActuallyAdditions.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: AdvancedRocketry.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: AkashicTome.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: AppliedEnergistics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Backpacks.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Chisel.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ExtraUtilities2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: FluidCompatibility.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Harvestcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: ImmersiveEngineering.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: IndustrialCraft2.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: IndustrialForegoing.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: IntegratedDynamics.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: JEICategories.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: LootTableTweaker.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Mekanism.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: MiscRecipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: MorphOTool.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: NuclearCraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: OreDict.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Plates.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: RecipeConflicts.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Smeltables&Burnables.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Thaumcraft.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: TinkersConstruct.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Tooltips.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 0ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] Ignoring script {[0:crafttweaker]: IntegratedDynamics.zs} due to the following #modloaded preprocessor settings: [{integrateddynamics}]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ActuallyAdditions.zs}
+[INITIALIZATION][SERVER][INFO] --- loading ActuallyAdditions.zs ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: AdvancedRocketry.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: AkashicTome.zs}
+[INITIALIZATION][SERVER][INFO] --- loading AkashicTome.zs ---
+[INITIALIZATION][SERVER][INFO] --- AkashicTome.zs initialized ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: AppliedEnergistics.zs}
+[INITIALIZATION][SERVER][INFO] --- loading AppliedEnergistics.zs ---
+[INITIALIZATION][SERVER][INFO] --- AppliedEnergistics.zs initialized ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Backpacks.zs}
+[INITIALIZATION][SERVER][INFO] --- loading Backpacks.zs ---
+[INITIALIZATION][SERVER][INFO] --- Backpacks.zs initialized ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Chisel.zs}
+[INITIALIZATION][SERVER][INFO] --- loading Chisel.zs ---
+[INITIALIZATION][SERVER][INFO] --- Chisel.zs initialized ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ExtraUtilities2.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: FluidCompatibility.zs}
+[INITIALIZATION][SERVER][INFO] --- loading FluidCompatibility.zs ---
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetAlumite -> 16 x alumite
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotAlumite -> 144 x alumite
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockAlumite -> 1296 x alumite
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetRefinedObsidian -> 16 x refinedobsidian
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotRefinedObsidian -> 144 x refinedobsidian
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockRefinedObsidian -> 1296 x refinedobsidian
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetOsgloglas -> 16 x osgloglas
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotOsgloglas -> 144 x osgloglas
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockOsgloglas -> 1296 x osgloglas
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetRefinedGlowstone -> 16 x refinedglowstone
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotRefinedGlowstone -> 144 x refinedglowstone
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockRefinedGlowstone -> 1296 x refinedglowstone
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetOsmiridium -> 16 x osmiridium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotOsmiridium -> 144 x osmiridium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockOsmiridium -> 1296 x osmiridium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetElvenElementium -> 16 x elementium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotElvenElementium -> 144 x elementium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x tile.storage:2 -> 1296 x elementium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetMirion -> 16 x mirion
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotMirion -> 144 x mirion
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockMirion -> 1296 x mirion
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:nuggetThaumium -> 16 x thaumium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:ingotThaumium -> 144 x thaumium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:blockThaumium -> 1296 x thaumium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x tile.storage:0 -> 1296 x manasteel
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x tile.storage:1 -> 1296 x terrasteel
+[INITIALIZATION][SERVER][INFO] --- FluidCompatibility.zs initialized ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Harvestcraft.zs}
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: ImmersiveEngineering.zs}
+[INITIALIZATION][SERVER][INFO] --- ImmersiveEngineering.zs initialized ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: IndustrialCraft2.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: IndustrialForegoing.zs}
+[INITIALIZATION][SERVER][INFO] Adding FluidDictionary Entry seed.oil * 1.0 = seed_oil
+[INITIALIZATION][SERVER][INFO] Adding FluidDictionary Entry sulfuric_acid * 1.0 = sulfuricacid
+[INITIALIZATION][SERVER][INFO] Adding FluidDictionary Entry hydrogen * 1.0 = ic2hydrogen
+[INITIALIZATION][SERVER][INFO] Adding FluidDictionary Entry hydrogen * 1.0 = liquidhydrogen
+[INITIALIZATION][SERVER][INFO] Adding FluidDictionary Entry liquidhydrogen * 1.0 = ic2hydrogen
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Bee Grub
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Tofeak
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Tofacon
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Tofutton
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Toficken
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Tofabbit
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Tofurkey
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Tofenison
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Tofuduck
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Beef
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Chicken
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Duck
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Fish
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Mutton
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Pork
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Rabbit
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Turkey
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Ground Venison
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Beef
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Chicken
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Porkchop
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Mutton
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Turkey
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Rabbit
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Venison
+[INITIALIZATION][SERVER][INFO] Adding Protein Reactor Entry Raw Duck
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Breadfruit
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Mustard Seeds
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Spice Leaf
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Ginger
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Garlic
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Peanut
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Oats
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Barley
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Chili Pepper
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pecan
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pistachio
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Almond
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Kenaf
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Millet
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cashew
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Sisal
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Quinoa
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Jute
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Flax
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Amaranth
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Kale
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Chestnut
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Walnut
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Seeds
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Beetroot Seeds
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pumpkin Seeds
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Melon Seeds
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Spinach Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Kiwi Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cabbage Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Corn Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cucumber Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Onion Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Artichoke Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cotton Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cactus Fruit Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Elderberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Spice Leaf Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Arrowroot Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Kohlrabi Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Mustard Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Candleberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Beet Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Bean Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Eggplant Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Giga Pickle Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Raspberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Blueberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Chili Pepper Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Grape Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Mulberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Lettuce Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Tomatillo Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Curry Leaf Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Quinoa Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Millet Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Rhubarb Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Ginger Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Asparagus Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cantaloupe Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Winter Squash Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Rutabaga Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Brussel Sprout Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Okra Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Sesame Seeds Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cauliflower Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Radish Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Broccoli Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Zucchini Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Tomato Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Scallion Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Jute Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Sisal Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Water Chestnut Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Bamboo Shoot Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Flax Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Celery Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Peas Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cassava Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Peanut Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Tea Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Taro Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Parsnip Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Soybean Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Garlic Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Coffee Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Oats Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Jicama Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Strawberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Seaweed Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Barley Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Kenaf Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry White Mushroom Spore
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Rice Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Lentil Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Sweet Potato Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Leek Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Agave Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Amaranth Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Chickpea Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Green Grape Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pineapple Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Blackberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Huckleberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Juniperberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cranberry Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Bellpepper Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Turnip Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Kale Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Rye Seed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Tomato
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Carrot
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Potato
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pumpkin
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Asparagus
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Beans
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Beet
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Beetroot
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Broccoli
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cauliflower
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Celery
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Leek
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Lettuce
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Onion
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Parsnip
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Radish
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Rutabaga
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Scallion
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Soybean
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Sweet Potato
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Turnip
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry White Mushroom
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Artichoke
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Bellpepper
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Brussel Sprout
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cabbage
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Corn
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cucumber
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Eggplant
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Okra
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Peas
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Rhubarb
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Seaweed
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Tomato
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Winter Squash
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Zucchini
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Bamboo Shoot
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Spinach
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Water Chestnut
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Arrowroot
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cassava
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Chickpeas
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Jicama
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Kohlrabi
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Lentils
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Taro
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Tomatillo
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Jackfruit
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Tamarind
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Olives
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Ironberries
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Grapes
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Wildberries
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Apple
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Chorus Fruit
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cranberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pineapple
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Blackberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Blueberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cactus Fruit
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cantaloupe
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Grape
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Kiwi
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Raspberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Strawberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Agave
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Elderberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Green Grape
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Huckleberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Mulberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Juniperberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Banana
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Cherry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Dragonfruit
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Lemon
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Lime
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Mango
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Orange
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Papaya
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Peach
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pear
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Plum
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pomegranate
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Starfruit
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Gooseberry
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Apricot
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Date
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Fig
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Grapefruit
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Persimmon
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Pawpaw
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Soursop
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Guava
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Lychee
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Passion Fruit
+[INITIALIZATION][SERVER][INFO] Adding BioReactor Entry Rambutan
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: IntegratedDynamics.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: JEICategories.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: LootTableTweaker.zs}
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: ic2:ingot:1
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: ic2:ingot:2
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: ic2:ingot:6
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: immersiveengineering:metal
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: immersiveengineering:metal:1
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: immersiveengineering:metal:22
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: immersiveengineering:metal:23
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: immersiveengineering:metal:24
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Mekanism.zs}
+[INITIALIZATION][SERVER][INFO] --- loading Mekanism.zs ---
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Basic Tier Installer to 16
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Advanced Tier Installer to 16
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Elite Tier Installer to 16
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Ultimate Tier Installer to 16
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Filter Upgrade to 64
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Energy Upgrade to 64
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Speed Upgrade to 64
+[INITIALIZATION][SERVER][INFO] Setting max stack size of  Muffling Upgrade to 64
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: MiscRecipes.zs}
+[INITIALIZATION][SERVER][INFO] --- loading MiscRecipes.zs ---
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Bronze Gear
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Copper Gear
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Tin Gear
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Bronze Gear
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Copper Gear
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Tin Gear
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: MorphOTool.zs}
+[INITIALIZATION][SERVER][INFO] --- loading MorphOTool.zs ---
+[INITIALIZATION][SERVER][INFO] --- MorphOTool.zs initialized ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: NuclearCraft.zs}
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_melter recipe: 1 x ore:obsidian -> { 288 x obsidian }
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_melter recipe: { 1 x ore:dustObsidian } -> { 72 x obsidian }
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_melter recipe: 1 x ore:obsidian -> 144 x obsidian
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_electrolyser recipe: 1000 x heavywater -> 500 x deuterium, 500 x deuterium, 500 x oxygen, 50 x tritium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_electrolyser recipe: 1000 x ic2heavy_water -> 500 x deuterium, 500 x deuterium, 500 x oxygen, 50 x tritium
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_electrolyser recipe: 1000 x water -> 500 x hydrogen, 500 x hydrogen, 50 x deuterium, 500 x oxygen
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_electrolyser recipes for: 950 x deuterium, 500 x oxygen, 50 x tritium, null
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_electrolyser recipes for: 950 x hydrogen, 50 x deuterium, 500 x oxygen, null
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotIron -> 1 x item.thermalfoundation.material:32
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotGold -> 1 x item.thermalfoundation.material:33
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotCopper -> 1 x item.thermalfoundation.material:320
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotTin -> 1 x item.thermalfoundation.material:321
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotLead -> 1 x item.thermalfoundation.material:323
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotBronze -> 1 x item.thermalfoundation.material:355
+[INITIALIZATION][SERVER][INFO] Adding nuclearcraft_pressurizer recipe: 1 x ore:ingotSteel -> 1 x item.thermalfoundation.material:352
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:0
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:1
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:2
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:3
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:5
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:7
+[INITIALIZATION][SERVER][INFO] Removing nuclearcraft_pressurizer recipes for: 1 x ic2.plate:8
+[INITIALIZATION][SERVER][INFO] --- NuclearCraft.zs initialized ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: OreDict.zs}
+[INITIALIZATION][SERVER][INFO] --- loading OreDict.zs ---
+[INITIALIZATION][SERVER][INFO] Removing Nickel Ore from ore dictionary entry oreNickel
+[INITIALIZATION][SERVER][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][SERVER][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][SERVER][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][SERVER][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][SERVER][INFO] Removing Tin Ore from ore dictionary entry oreTin
+[INITIALIZATION][SERVER][INFO] Removing Bauxite Ore from ore dictionary entry oreAluminum
+[INITIALIZATION][SERVER][INFO] Removing Aluminum Ore from ore dictionary entry oreAluminum
+[INITIALIZATION][SERVER][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][SERVER][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][SERVER][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][SERVER][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][SERVER][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][SERVER][INFO] Removing Copper Ore from ore dictionary entry oreCopper
+[INITIALIZATION][SERVER][INFO] Removing Lead Ore from ore dictionary entry oreLead
+[INITIALIZATION][SERVER][INFO] Removing Lead Ore from ore dictionary entry oreLead
+[INITIALIZATION][SERVER][INFO] Removing Lead Ore from ore dictionary entry oreLead
+[INITIALIZATION][SERVER][INFO] Removing Uranium Ore from ore dictionary entry oreUranium
+[INITIALIZATION][SERVER][INFO] Removing Uranium Ore from ore dictionary entry oreUranium
+[INITIALIZATION][SERVER][INFO] Removing Draconium Ore from ore dictionary entry oreDraconium
+[INITIALIZATION][SERVER][INFO] Adding Draconium Ore to ore dictionary entry oreDraconium
+[INITIALIZATION][SERVER][INFO] Adding Nether Draconium Ore to ore dictionary entry oreDraconium
+[INITIALIZATION][SERVER][INFO] Adding Ender Draconium Ore to ore dictionary entry oreDraconium
+[INITIALIZATION][SERVER][INFO] Adding Slag to ore dictionary entry crystalSlag
+[INITIALIZATION][SERVER][INFO] Removing String from ore dictionary entry cropFlax
+[INITIALIZATION][SERVER][INFO] Adding Apple to ore dictionary entry cropApple
+[INITIALIZATION][SERVER][INFO] Adding Apple to ore dictionary entry listAllfruit
+[INITIALIZATION][SERVER][INFO] Adding Oak Boat to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Adding Spruce Boat to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Adding Birch Boat to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Adding Jungle Boat to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Adding Acacia Boat to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Boat to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Adding Motorboat to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Adding Reinforced Hull to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Adding Electric Boat to ore dictionary entry boat
+[INITIALIZATION][SERVER][INFO] Removing Industrial Diamond from ore dictionary entry gemDiamond
+[INITIALIZATION][SERVER][INFO] Adding Pillar of Black Quartz to ore dictionary entry blockBlackQuartz
+[INITIALIZATION][SERVER][INFO] Adding Chiseled Block of Black Quartz to ore dictionary entry blockBlackQuartz
+[INITIALIZATION][SERVER][INFO] Adding Block of Black Quartz to ore dictionary entry blockBlackQuartz
+[INITIALIZATION][SERVER][INFO] Adding Certus Quartz Crystal to ore dictionary entry crystalCertus
+[INITIALIZATION][SERVER][INFO] Adding Charged Certus Quartz Crystal to ore dictionary entry crystalCertus
+[INITIALIZATION][SERVER][INFO] Adding Pure Certus Quartz Crystal to ore dictionary entry crystalCertus
+[INITIALIZATION][SERVER][INFO] Adding Certus Quartz Block to ore dictionary entry blockCertusQuartz
+[INITIALIZATION][SERVER][INFO] Adding Certus Quartz Pillar to ore dictionary entry blockCertusQuartz
+[INITIALIZATION][SERVER][INFO] Adding Chiseled Certus Quartz Block to ore dictionary entry blockCertusQuartz
+[INITIALIZATION][SERVER][INFO] Adding Iridium Ore to ore dictionary entry ingotIridium
+[INITIALIZATION][SERVER][INFO] Adding Iridium Shard to ore dictionary entry nuggetIridium
+[INITIALIZATION][SERVER][INFO] Adding Engineer's Hammer to ore dictionary entry craftingToolForgeHammer
+[INITIALIZATION][SERVER][INFO] Adding Void Metal Block to ore dictionary entry blockVoid
+[INITIALIZATION][SERVER][INFO] Adding Circuit Board to ore dictionary entry circuitBoard
+[INITIALIZATION][SERVER][INFO] Adding Amber Block to ore dictionary entry blockAmber
+[INITIALIZATION][SERVER][INFO] Adding Amber Bricks to ore dictionary entry blockAmber
+[INITIALIZATION][SERVER][INFO] Adding Rock Crystal to ore dictionary entry crystalAstralAny
+[INITIALIZATION][SERVER][INFO] Adding Attuned Rock Crystal to ore dictionary entry crystalAstralAny
+[INITIALIZATION][SERVER][INFO] Adding Celestial Crystal to ore dictionary entry crystalAstralAny
+[INITIALIZATION][SERVER][INFO] Adding Attuned Celestial Crystal to ore dictionary entry crystalAstralAny
+[INITIALIZATION][SERVER][INFO] Adding Blank Rune to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Speed Rune to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Efficiency Rune to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Rune of Sacrifice to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Rune of Self Sacrifice to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Displacement Rune to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Rune of Capacity to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Rune of Augmented Capacity to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Rune of the Orb to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Acceleration Rune to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Charging Rune to ore dictionary entry runeBlood
+[INITIALIZATION][SERVER][INFO] Adding Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Chocolate Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Carrot Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Cheese Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Cherry Cheese Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Chocolate Sprinkles Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Holiday Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Pineapple Upside Down Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Pumpkin Cheese Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Red Velvet Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Lemon Drizzle Cake to ore dictionary entry foodCake
+[INITIALIZATION][SERVER][INFO] Adding Wither Dust to ore dictionary entry dustWither
+[INITIALIZATION][SERVER][INFO] Adding Wither Ash to ore dictionary entry dustWither
+[INITIALIZATION][SERVER][INFO] Adding Marble to ore dictionary entry blockMarble
+[INITIALIZATION][SERVER][INFO] Adding Fertilizer to ore dictionary entry fertilizer
+[INITIALIZATION][SERVER][INFO] Adding Bone Meal to ore dictionary entry fertilizer
+[INITIALIZATION][SERVER][INFO] Adding Fertilizer to ore dictionary entry fertilizer
+[INITIALIZATION][SERVER][INFO] Adding Fertilizer to ore dictionary entry fertilizer
+[INITIALIZATION][SERVER][INFO] Adding Sawdust to ore dictionary entry pulpWood
+[INITIALIZATION][SERVER][INFO] Adding Wood Pulp to ore dictionary entry dustWood
+[INITIALIZATION][SERVER][INFO] Adding Marble to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][SERVER][INFO] Adding Marble Bricks to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][SERVER][INFO] Adding Marble Pillar to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][SERVER][INFO] Adding Marble Arch to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][SERVER][INFO] Adding Chiseled Marble to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][SERVER][INFO] Adding Engraved Marble to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][SERVER][INFO] Adding Runed Marble to ore dictionary entry stoneMarblePolished
+[INITIALIZATION][SERVER][INFO] Removing Tin Gear from ore dictionary entry gearTin
+[INITIALIZATION][SERVER][INFO] Removing Copper Gear from ore dictionary entry gearCopper
+[INITIALIZATION][SERVER][INFO] Removing Bronze Gear from ore dictionary entry gearBronze
+[INITIALIZATION][SERVER][INFO] Adding Salt to ore dictionary entry itemSalt
+[INITIALIZATION][SERVER][INFO] Adding Salt to ore dictionary entry foodSalt
+[INITIALIZATION][SERVER][INFO] Adding Salt to ore dictionary entry dustSalt
+[INITIALIZATION][SERVER][INFO] Adding Marble Bricks to ore dictionary entry stoneMarble
+[INITIALIZATION][SERVER][INFO] Adding Polished Marble to ore dictionary entry stoneMarble
+[INITIALIZATION][SERVER][INFO] Adding Polished Sandstone to ore dictionary entry sandstone
+[INITIALIZATION][SERVER][INFO] Adding Sandstone Bricks to ore dictionary entry sandstone
+[INITIALIZATION][SERVER][INFO] Adding Polished Red Sandstone to ore dictionary entry sandstone
+[INITIALIZATION][SERVER][INFO] Adding Red Sandstone Bricks to ore dictionary entry sandstone
+[INITIALIZATION][SERVER][INFO] Adding Diorite Bricks to ore dictionary entry stoneDiorite
+[INITIALIZATION][SERVER][INFO] Adding Andesite Bricks to ore dictionary entry stoneAndesite
+[INITIALIZATION][SERVER][INFO] Adding Granite Bricks to ore dictionary entry stoneGranite
+[INITIALIZATION][SERVER][INFO] Adding Basalt Bricks to ore dictionary entry stoneBasalt
+[INITIALIZATION][SERVER][INFO] Adding Polished Limestone to ore dictionary entry stoneLimestone
+[INITIALIZATION][SERVER][INFO] Adding Limestone Bricks to ore dictionary entry stoneLimestone
+[INITIALIZATION][SERVER][INFO] Adding White Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Orange Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Purple Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Blue Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Brown Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Green Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Red Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Black Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Magenta Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Light Blue Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Yellow Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Lime Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Pink Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Gray Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Light Gray Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Cyan Painted Wood to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Larch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Teak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Desert Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Lime Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Chestnut Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Wenge Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Baobab Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Sequoia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Kapok Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Ebony Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Mahogany Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Balsa Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Willow Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Walnut Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Greenheart Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Cherry Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Mahoe Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Poplar Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Palm Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Papaya Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Pine Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Plum Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Maple Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Citrus Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Giant Sequoia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Ipe Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Padauk Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Cocobolo Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Zebrawood Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Larch Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Teak Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Desert Acacia Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Lime Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Chestnut Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Wenge Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Baobab Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Sequoia Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Kapok Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Ebony Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Mahogany Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Balsa Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Willow Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Walnut Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Greenheart Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Cherry Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Mahoe Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Poplar Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Palm Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Papaya Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Pine Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Plum Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Maple Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Citrus Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Giant Sequoia Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Ipe Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Padauk Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Cocobolo Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Zebrawood Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks (Fireproof) to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Olive Wood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Ironwood Planks to ore dictionary entry plankWood
+[INITIALIZATION][SERVER][INFO] Adding Crafting Table On A Stick to ore dictionary entry craftingTableWood
+[INITIALIZATION][SERVER][INFO] Adding Crafting Table to ore dictionary entry craftingTableWood
+[INITIALIZATION][SERVER][INFO] Adding Crafting Table On A Stick to ore dictionary entry crafterWood
+[INITIALIZATION][SERVER][INFO] Adding Crafting Table to ore dictionary entry crafterWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Ender Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Oak Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Treasure Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Spruce Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Birch Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Jungle Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Acacia Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Spruce Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Birch Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Jungle Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Acacia Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chest
+[INITIALIZATION][SERVER][INFO] Adding Oak Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chestWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Spruce Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Birch Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Jungle Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Acacia Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Trapped Chest to ore dictionary entry chestTrapped
+[INITIALIZATION][SERVER][INFO] Adding White Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Orange Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Magenta Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Light Blue Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Yellow Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Lime Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Pink Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Gray Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Light Gray Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Cyan Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Purple Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Blue Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Brown Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Green Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Red Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Black Bed to ore dictionary entry bed
+[INITIALIZATION][SERVER][INFO] Adding Wooden Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][SERVER][INFO] Adding Treated Wood Trapdoor to ore dictionary entry trapdoorWood
+[INITIALIZATION][SERVER][INFO] Adding Oak Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Desert Acacia Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Balsa Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Baobab Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Cherry Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Chestnut Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Citrus Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Cocobolo Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Ebony Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Giant Sequoia Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Greenheart Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Ipe Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Kapok Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Larch Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Lime Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Mahoe Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Mahogany Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Maple Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Padauk Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Palm Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Papaya Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Pine Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Plum Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Poplar Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Sequoia Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Teak Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Walnut Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Wenge Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Willow Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Zebrawood Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Acacia Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Jungle Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Birch Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Spruce Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] Adding Dark Oak Door to ore dictionary entry doorWood
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Plates.zs}
+[INITIALIZATION][SERVER][INFO] --- loading Plates.zs ---
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Copper Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Aluminium Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Lead Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Silver Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Nickel Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Constantan Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Electrum Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Steel Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Iron Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Gold Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Iron Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Gold Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Copper Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Tin Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Silver Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Lead Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Aluminum Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Nickel Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Steel Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Electrum Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Bronze Plate
+[INITIALIZATION][SERVER][INFO] Adding Metal Press Recipe for Constantan Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Tin Plate
+[INITIALIZATION][SERVER][INFO] Removing Metal Press Recipes for Bronze Plate
+[INITIALIZATION][SERVER][INFO] Removing Iron Plate from ore dictionary entry plateIron
+[INITIALIZATION][SERVER][INFO] Removing Iron Plate from ore dictionary entry plateIron
+[INITIALIZATION][SERVER][INFO] Removing Gold Plate from ore dictionary entry plateGold
+[INITIALIZATION][SERVER][INFO] Removing Gold Plate from ore dictionary entry plateGold
+[INITIALIZATION][SERVER][INFO] Removing Copper Plate from ore dictionary entry plateCopper
+[INITIALIZATION][SERVER][INFO] Removing Copper Plate from ore dictionary entry plateCopper
+[INITIALIZATION][SERVER][INFO] Removing Tin Plate from ore dictionary entry plateTin
+[INITIALIZATION][SERVER][INFO] Removing Silver Plate from ore dictionary entry plateSilver
+[INITIALIZATION][SERVER][INFO] Removing Lead Plate from ore dictionary entry plateLead
+[INITIALIZATION][SERVER][INFO] Removing Lead Plate from ore dictionary entry plateLead
+[INITIALIZATION][SERVER][INFO] Removing Aluminium Plate from ore dictionary entry plateAluminum
+[INITIALIZATION][SERVER][INFO] Removing Nickel Plate from ore dictionary entry plateNickel
+[INITIALIZATION][SERVER][INFO] Removing Steel Plate from ore dictionary entry plateSteel
+[INITIALIZATION][SERVER][INFO] Removing Steel Plate from ore dictionary entry plateSteel
+[INITIALIZATION][SERVER][INFO] Removing Electrum Plate from ore dictionary entry plateElectrum
+[INITIALIZATION][SERVER][INFO] Removing Constantan Plate from ore dictionary entry plateConstantan
+[INITIALIZATION][SERVER][INFO] Removing Bronze Plate from ore dictionary entry plateBronze
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: RecipeConflicts.zs}
+[INITIALIZATION][SERVER][INFO] --- loading RecipeConflicts.zs ---
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Smeltables&Burnables.zs}
+[INITIALIZATION][SERVER][INFO] --- loading Smeltables&Burnables.zs ---
+[INITIALIZATION][SERVER][INFO] Setting fuel for <ore:dustSulfur>
+[INITIALIZATION][SERVER][INFO] Setting fuel for <thermalfoundation:material:832>
+[INITIALIZATION][SERVER][INFO] Setting fuel for <forestry:resource_storage>
+[INITIALIZATION][SERVER][INFO] Setting fuel for <forestry:apatite>
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Thaumcraft.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: TinkersConstruct.zs}
+[INITIALIZATION][SERVER][INFO] --- loading TinkersConstruct.zs ---
+[INITIALIZATION][SERVER][INFO] Altering Casting Recipe(s) for <chisel:blockcobalt>
+[INITIALIZATION][SERVER][INFO] Setting pyrotheum temperature to 5300
+[INITIALIZATION][SERVER][INFO] Setting xu_demonic_metal temperature to 4000
+[INITIALIZATION][SERVER][INFO] Setting sulfuricacid temperature to 4000
+[INITIALIZATION][SERVER][INFO] Setting refined_fuel temperature to 4100
+[INITIALIZATION][SERVER][INFO] Setting ic2uu_matter temperature to 6800
+[INITIALIZATION][SERVER][INFO] Setting ic2pahoehoe_lava temperature to 3800
+[INITIALIZATION][SERVER][INFO] Setting gasoline temperature to 3900
+[INITIALIZATION][SERVER][INFO] Setting diesel temperature to 3900
+[INITIALIZATION][SERVER][INFO] Setting astralsorcery.liquidstarlight temperature to 3900
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: Tooltips.zs}
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <libvulpes:productingot:7>: "(Craftable)"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <harvestcraft:market>: "Disabled. Use the Market from Farming For Blockheads."
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 527ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing Shapeless recipes for <minecraft:string> * 4
+[POSTINITIALIZATION][SERVER][INFO] Removing 0 Shapeless recipes.
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <minecraft:string> * 4
+[POSTINITIALIZATION][SERVER][INFO] 0 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <quark:marble:1>
+[POSTINITIALIZATION][SERVER][INFO] 0 removed
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Black Quartz with name Black Quartz Block to Black Quartz
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Enchanted Book with name Airtight Seal Enchant
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Akashic Tome with name SuperTome
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Infinity Booster Card with name WCT Infinity Booster Card
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slimey Generator with name extrautils2_machine_generator_slime_oredict_fix
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Aluminium Structural Arm with name Aluminum Scaffolding
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Structural Arm with name Steel Scaffolding
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pulverized Lead with name LeadDustFromTiny
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lapis Lazuli Dust with name LapisDustFromTiny
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bronze Paxel with name Mekanism Bronze Paxel
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Paxel with name Mekanism Steel Paxel
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Marble Wall with name Quark Marble Wall
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Bookshelf with name Bookshelf Conversion
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Block of Uranium with name UraniumBlock
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Uranium Ingot with name UraniumIngots
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Silicon with name ct_shapeless-1442766672
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Silicon Ingot with name ct_shapeless2138211091
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iridium Ingot with name ct_shapeless-1717348894
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iridium Ore with name ct_shapeless-1415599364
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Digital Guide with name Environmental Tech Guide
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lonsdaleite Crystal with name Lonsdaleite
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Forester's Manual with name Foresters Manual
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Titanium Ingot with name Titanium Ingot
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for White Wool with name wool
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Orange Wool with name wool1
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Magenta Wool with name wool2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Blue Wool with name wool3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Yellow Wool with name wool4
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lime Wool with name wool5
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Pink Wool with name wool6
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gray Wool with name wool7
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Gray Wool with name wool8
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Cyan Wool with name wool9
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Purple Wool with name wool10
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blue Wool with name wool11
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Brown Wool with name wool12
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Green Wool with name wool13
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Red Wool with name wool14
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Black Wool with name wool15
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Name Tag with name Nametag
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Elytra with name Elytra
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Astral Tome with name Astral Sorcery Journal
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mega Torch with name Mega Torch
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Market with name Farming for Blockheads Market
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Rainbow Generator! with name Rainbow Generator
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lavender Shortbread with name Pam's Harvestcraft Lavender Shortbread
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Oak Boat with name Boat
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Chest with name chest2chest
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Slate with name slate
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Ingot with name TE Bronze
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Morphing Tool with name Superwrench
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Wooden Trapdoor with name trapdoororedict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Trapped Chest with name trappedchestoredict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Chest with name chestoredict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for White Bed with name bedoredict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Oak Door with name wooddoororedict1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Plate with name plate32a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gold Plate with name plate33a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Fluxed Electrum Plate with name plate128a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Copper Plate with name plate320a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tin Plate with name plate321a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Silver Plate with name plate322a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lead Plate with name plate323a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Aluminum Plate with name plate324a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Nickel Plate with name plate325a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Platinum Plate with name plate326a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iridium Plate with name plate327a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mana Infused Plate with name plate328a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Steel Plate with name plate352a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Electrum Plate with name plate353a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Invar Plate with name plate354a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Plate with name plate355a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Constantan Plate with name plate356a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Signalum Plate with name plate357a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lumium Plate with name plate358a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Enderium Plate with name plate359a
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Item Casing with name IC2Casing1
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Copper Item Casing with name IC2Casing2
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gold Item Casing with name IC2Casing3
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Item Casing with name IC2Casing4
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lead Item Casing with name IC2Casing5
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Steel Item Casing with name IC2Casing6
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tin Item Casing with name IC2Casing7
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Plate with name plate32b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gold Plate with name plate33b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Fluxed Electrum Plate with name plate128b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Copper Plate with name plate320b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Tin Plate with name plate321b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Silver Plate with name plate322b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lead Plate with name plate323b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Aluminum Plate with name plate324b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Nickel Plate with name plate325b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Platinum Plate with name plate326b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iridium Plate with name plate327b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Mana Infused Plate with name plate328b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Steel Plate with name plate352b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Electrum Plate with name plate353b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Invar Plate with name plate354b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bronze Plate with name plate355b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Constantan Plate with name plate356b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Signalum Plate with name plate357b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lumium Plate with name plate358b
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Enderium Plate with name plate359b
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lavastone with name Chisel Lavastone
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Chain with name Rustic Iron Chain
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Peking Duck with name Peking Duck
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Soft Pretzel with name Soft Pretzel
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Polished Marble with name Polished Marble
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Wooden Stake with name Rustic Crop Stake
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Lattice with name Rustic Iron Lattice
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Boiler Casing with name ct_shaped-1005012417
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <thermalfoundation:material:96>
+[POSTINITIALIZATION][SERVER][INFO] Removing 3 Mekanism Combiner Recipe(s) for <minecraft:quartz_ore>, <minecraft:quartz_ore>, <minecraft:quartz_ore>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Combiner Recipe(s) for <minecraft:coal_ore>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <astralsorcery:itemcraftingcomponent:1>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Combiner Recipe(s) for <minecraft:quartz_ore>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Combiner Recipe(s) for <minecraft:coal_ore>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Smelter Recipe(s) for <nuclearcraft:ingot:6>
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for <appliedenergistics2:charged_quartz_ore>
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for <appliedenergistics2:material:1>
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for <appliedenergistics2:material>
+[AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:13> in mode: ALL
+[AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:14> in mode: ALL
+[AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:15> in mode: ALL
+[AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:19> in mode: ALL
+[AVAILABLE][SERVER][INFO] Altering Compactor Recipe(s) for <appliedenergistics2:material:5> in mode: COIN
+[AVAILABLE][SERVER][INFO] Altering Pulverizer Recipe(s) for <appliedenergistics2:material:2>
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: basalt and item: 1xtile.basalt@1
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: basalt and item: 1xtile.basalt@0
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: basalt and item: 1xic2.resource@0
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: marble and item: 1xtile.marble@0
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: limestone and item: 1xtile.limestone@0
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: limestone and item: 1xtile.limestone@1
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@0
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@1
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@2
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@3
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@4
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@5
+[AVAILABLE][SERVER][INFO] Adding chisel variation for group: sootymarble and item: 1xtile.blockblackmarble@6
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:alumite> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:alumite> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:alumite> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:refinedobsidian> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:refinedobsidian> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:refinedobsidian> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:osgloglas> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:osgloglas> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:osgloglas> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:refinedglowstone> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:refinedglowstone> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:refinedglowstone> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:osmiridium> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:osmiridium> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:osmiridium> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:elementium> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:elementium> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:elementium> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:mirion> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:mirion> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:mirion> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:thaumium> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:thaumium> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:thaumium> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:manasteel> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:manasteel> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:manasteel> * 1296
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:terrasteel> * 16
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:terrasteel> * 144
+[AVAILABLE][SERVER][INFO] Altering Crucible Recipe(s) for <liquid:terrasteel> * 1296
+[AVAILABLE][SERVER][INFO] Setting aspects on item: <chiselsandbits:chiseled_iron> to: Desiderium
+[AVAILABLE][SERVER][INFO] Setting aspects on item: <ic2:dust:21> to: Metallum
+[AVAILABLE][SERVER][INFO] Adding infusion recipe for: 1xitem.curio@6
+[AVAILABLE][SERVER][INFO] Adding infusion recipe for: 1xitem.monsterPlacer@0
+[AVAILABLE][SERVER][INFO] Removing <thaumcraft:nugget:1> as a possible smelting bonus for: oreCopper
+[AVAILABLE][SERVER][INFO] Removing <thaumcraft:nugget:2> as a possible smelting bonus for: oreTin
+[AVAILABLE][SERVER][INFO] Removing <thaumcraft:nugget:3> as a possible smelting bonus for: oreSilver
+[AVAILABLE][SERVER][INFO] Removing <thaumcraft:nugget:4> as a possible smelting bonus for: oreLead
+[AVAILABLE][SERVER][INFO] Removing <thaumcraft:nugget:1> as a possible smelting bonus for: 1xitem.cluster@2
+[AVAILABLE][SERVER][INFO] Removing <thaumcraft:nugget:2> as a possible smelting bonus for: 1xitem.cluster@3
+[AVAILABLE][SERVER][INFO] Removing <thaumcraft:nugget:3> as a possible smelting bonus for: 1xitem.cluster@4
+[AVAILABLE][SERVER][INFO] Removing <thaumcraft:nugget:4> as a possible smelting bonus for: 1xitem.cluster@5
+[AVAILABLE][SERVER][INFO] Adding <thermalfoundation:material:192> as a possible smelting bonus for: oreCopper
+[AVAILABLE][SERVER][INFO] Adding <thermalfoundation:material:193> as a possible smelting bonus for: oreTin
+[AVAILABLE][SERVER][INFO] Adding <thermalfoundation:material:194> as a possible smelting bonus for: oreSilver
+[AVAILABLE][SERVER][INFO] Adding <thermalfoundation:material:195> as a possible smelting bonus for: oreLead
+[AVAILABLE][SERVER][INFO] Altering Casting Recipe(s) for <tconstruct:metal>
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:pyrotheum> * 25
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:xu_demonic_metal> * 25
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:sulfuricacid> * 25
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:refined_fuel> * 25
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:ic2uu_matter> * 25
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:ic2pahoehoe_lava> * 25
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:gasoline> * 25
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:diesel> * 25
+[AVAILABLE][SERVER][INFO] Altering Fuel Recipe(s) for <liquid:astralsorcery.liquidstarlight> * 25
